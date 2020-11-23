@@ -1,0 +1,23 @@
+{
+    "botConfig": {
+        "options": {
+            "debug": true
+        },
+        "connection": {
+            "cluster": "",
+            "reconnect": ""
+        },
+        "identity": {
+            "username": "",
+            "password": ""
+        },
+        "channels": [""]
+        },
+        "listen": {
+            "type": "LISTEN",
+            "data": {
+              "topics": [""],
+              "auth_token": ""
+            }
+    }
+}
